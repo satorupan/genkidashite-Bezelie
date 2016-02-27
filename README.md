@@ -1,10 +1,7 @@
-### げんきだしてbot ###
+# Go genki-bot #
 
-    $ heroku apps:create
-    $ heroku config:set TWITTER_CONSUMER_KEY=... TWITTER_CONSUMER_SECRET=... ...
-    $ git push heroku master
-    $ heroku ps:scale bot=1
+Go版 [@genkidashitebot](https://twitter.com/genkidashitebot)
 
-#### Heroku Button ####
+- [genki-bot](https://github.com/sugyan/genki-bot)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)

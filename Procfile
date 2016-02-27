@@ -1,1 +1,1 @@
-bot: bundle exec ruby genki.rb
+bot: go-genki-bot
